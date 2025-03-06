@@ -28,7 +28,7 @@ Traditional cryptographic systems rely on isolated hard problems—such as the d
 
 For a comprehensive reference implementation and further details, please visit our [GitHub repository](https://github.com/UOR-Foundation/PrimeCrypt). The repository includes:
 
-- **primecrypt_cli.py:** A fully-featured command-line interface for all PrimeCrypt operations, including key generation, encryption, signature generation, verification, and multi-signature aggregation.
+- **optimus.py:** A fully-featured command-line interface for all PrimeCrypt operations, including key generation, encryption, signature generation, verification, and multi-signature aggregation.
 - **spec.md:** A detailed specification document that outlines the mathematical and computer science foundations of PrimeCrypt, providing all the necessary details for implementation.
 - **README.md:** This file, providing an overview and introduction to PrimeCrypt.
 
