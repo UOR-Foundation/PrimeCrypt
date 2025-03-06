@@ -1,3 +1,5 @@
+# PrimeCrypt has not been peer reviewed... yet
+
 # PrimeCrypt
 
 [PrimeCrypt on GitHub](https://github.com/UOR-Foundation/PrimeCrypt)
